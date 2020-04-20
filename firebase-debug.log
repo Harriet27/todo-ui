@@ -1,0 +1,21 @@
+[debug] [2020-04-20T04:17:47.214Z] ----------------------------------------------------------------------
+[debug] [2020-04-20T04:17:47.217Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\NEIL\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-04-20T04:17:47.217Z] CLI Version:   7.14.0
+[debug] [2020-04-20T04:17:47.217Z] Platform:      win32
+[debug] [2020-04-20T04:17:47.217Z] Node Version:  v12.16.1
+[debug] [2020-04-20T04:17:47.219Z] Time:          Mon Apr 20 2020 11:17:47 GMT+0700 (Western Indonesia Time)
+[debug] [2020-04-20T04:17:47.219Z] ----------------------------------------------------------------------
+[debug] [2020-04-20T04:17:47.220Z] 
+[debug] [2020-04-20T04:17:47.319Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-04-20T04:17:47.319Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\NEIL\Documents\JC12\BackEnd\appTodo\express-ui-react
+

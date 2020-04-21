@@ -72,7 +72,7 @@ export const editData= (id, todo) => {
                     'Authorization' : `Bearer ${token}`
                 }
             }
-            await Axios.post(`${API_URL}/todo/edit-todo/${id}`, {todo}, headers)
+            await Axios.post(`${API_URL}/todo/edit-todo/${id}`, todo, headers)
             dispatch({
                 type : API_TODO_SUCCESS
             })
